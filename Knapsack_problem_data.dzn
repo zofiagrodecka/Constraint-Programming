@@ -1,0 +1,4 @@
+n = 6;  % ilosc przedmiotow
+Weights = [3, 2, 1, 5, 3, 7];
+Values = [5, 4, 3, 5, 10, 12];
+capasity = 15; % pojemnosc plecaka
